@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+#discord-navbar
 
 first time I used tailwindcss, fireship tailwind video
 
